@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lightdash-shop.com/sitemap.xml
